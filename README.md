@@ -1,3 +1,5 @@
 # GIT-GITHUB
 learning git and github 
-Author- Ayush Singh
+<br>
+<h1>AUTHOR</h1>
+ Ayush Singh
